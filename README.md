@@ -15,7 +15,9 @@ This page is fully accessible. The page follows an orderly structure (sequential
 ## Screenshot
 
 Here is a screenshot of the Horiseon web page!:
+<img src="./assets/images/screenshot.png">
 
 ## Link to deployed application
 
 Here is a link to the live web page!:
+https://geocode-matt.github.io/guacamole_challenge1/
